@@ -1,0 +1,8 @@
+# ninja log v5
+1	31	1706567628548115967	Lecture_1_autogen/timestamp	e9397ed6ae318994
+1	31	1706567628548115967	Lecture_1_autogen/mocs_compilation.cpp	e9397ed6ae318994
+1	31	1706567628548115967	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/Lecture 1/build-Lecture_1-Desktop_Qt_6_6_1_GCC_64bit-Debug/Lecture_1_autogen/timestamp	e9397ed6ae318994
+1	31	1706567628548115967	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/Lecture 1/build-Lecture_1-Desktop_Qt_6_6_1_GCC_64bit-Debug/Lecture_1_autogen/mocs_compilation.cpp	e9397ed6ae318994
+31	53	1706567628572116236	CMakeFiles/Lecture_1.dir/Lecture_1_autogen/mocs_compilation.cpp.o	76fa71ffd310f468
+31	1735	1706567630252135053	CMakeFiles/Lecture_1.dir/main.cpp.o	8d089efd3f7b7be3
+1736	1908	1706567630424136979	Lecture_1	373f52644e396777
