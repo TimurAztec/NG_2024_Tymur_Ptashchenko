@@ -1,0 +1,9 @@
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Task_2.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Task_2_autogen_timestamp_deps.dir
+/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Task_2_autogen.dir

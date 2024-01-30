@@ -1,0 +1,14 @@
+# ninja log v5
+0	26	1706651411873410125	Task_2_autogen/timestamp	f8882095273b1d6a
+0	26	1706651411873410125	Task_2_autogen/mocs_compilation.cpp	f8882095273b1d6a
+0	26	1706651411873410125	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/Task_2_autogen/timestamp	f8882095273b1d6a
+0	26	1706651411873410125	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/Task_2_autogen/mocs_compilation.cpp	f8882095273b1d6a
+26	49	1706651411901410392	CMakeFiles/Task_2.dir/Task_2_autogen/mocs_compilation.cpp.o	b3388224f124d91b
+26	1883	1706651413733427856	CMakeFiles/Task_2.dir/main.cpp.o	68660d4e366ae2e9
+1884	2065	1706651413917429610	Task_2	d0b5a3e51e00bf57
+2	13	1706651481822071754	Task_2_autogen/timestamp	f8882095273b1d6a
+2	13	1706651481822071754	Task_2_autogen/mocs_compilation.cpp	f8882095273b1d6a
+2	13	1706651481822071754	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/Task_2_autogen/timestamp	f8882095273b1d6a
+2	13	1706651481822071754	/home/pinglord/Projects/NG_2024_Tymur_Ptashchenko/build-Task_2-Desktop_Qt_6_6_1_GCC_64bit-Debug/Task_2_autogen/mocs_compilation.cpp	f8882095273b1d6a
+14	2050	1706651483858090861	CMakeFiles/Task_2.dir/main.cpp.o	68660d4e366ae2e9
+2050	2239	1706651484046092624	Task_2	d0b5a3e51e00bf57
