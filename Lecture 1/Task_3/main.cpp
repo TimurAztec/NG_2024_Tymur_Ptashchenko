@@ -9,16 +9,16 @@ int main()
     cin >> height;
 
     for (int i = 0; i < height; ++i) {
-        for (int j = 0; j < height - i - 1; ++j) {
-            cout << " ";
-        }
-        for (int k = 0; k < 2 * i + 1; ++k) {
-            cout << "*";
+        for (int j = 0; j < height + i; ++j) {
+            if (j < height - i - 1)
+                cout << " ";
+            else
+                cout << "*";
         }
         std::cout << std::endl;
     }
 
-    for (int j = 0; j < height - 1; ++j) {
+    for (int j = 0; j < height; ++j) {
         cout << " ";
     }
     cout << "*" << std::endl;
